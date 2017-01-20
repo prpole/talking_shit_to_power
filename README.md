@@ -1,6 +1,6 @@
-# talking_shit_to_power
+# Talking Shit to Power
 
-Talking Shit to Power. Purveyors of rude Twitter bots.
+Purveyors of rude Twitter bots.
 
 **Note: I have no idea if this violates Twitter's terms of service. It probably does. Use at your own risk/I assume no responsibility.**
 
