@@ -16,4 +16,4 @@ api = tweepy.API(auth)
 
 nowtime = str(time.time())
 
-api.update_status(status='@realDonaldTrump Go fuck yourself. #TalkingShitToPower \n \n \n \n \n #'+nowtime)
+api.update_status(status='@realDonaldTrump Go fuck yourself, Donald. #TalkingShitToPower \n \n \n \n \n #'+nowtime)
